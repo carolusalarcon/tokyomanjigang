@@ -1,1 +1,2 @@
 # tokyomanjigang
+Init
